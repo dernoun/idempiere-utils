@@ -1,2 +1,2 @@
 # idempiere-utils
-Repo containe helpfull util for iDempiere
+Repo containe helpfull tools for iDempiere
